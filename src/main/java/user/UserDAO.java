@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 
 public class UserDAO {
 	
-	private Connection conn;
+	private Connection conn;   
 	private PreparedStatement pstmt;
 	private ResultSet rs;
 	
