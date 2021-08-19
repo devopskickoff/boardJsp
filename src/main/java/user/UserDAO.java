@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class UserDAO {
+public class UserDAO {  
 	
-	private Connection conn;
+	private Connection conn;   
 	private PreparedStatement pstmt;
 	private ResultSet rs;
 	
